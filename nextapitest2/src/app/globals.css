@@ -24,3 +24,17 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+p {
+  font-size: 30px;
+  color: gold;
+}
+
+div {
+  position:absolute;
+  top:50vh;
+  right:50vw;
+  display:flex;
+  justify-content:center;
+  align-content:center;
+}
